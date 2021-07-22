@@ -1,4 +1,5 @@
 # Line Follower Bot
+***
 * It is basically a completely autonomus bot ,assembeld using Aurdino uno and some sensors.
 * The task of this bot is to complete the track laid with certain width of black strips , it have to follow the black strip until it reaches the final destination.
 * The is little easy for the robot so we added a challenge for the bot.The challenge is along with track completion it has to decode.
